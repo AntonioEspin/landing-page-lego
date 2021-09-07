@@ -1,0 +1,16 @@
+{
+  "name": "cursopracticomaquetacionanimacioncss",
+  "version": "1.0.0",
+  "description": "Curso practico de animacion y maquetacion en css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS",
+    "HTML",
+    "JS"
+  ],
+  "author": "Antonio Espin",
+  "license": "MIT"
+}
